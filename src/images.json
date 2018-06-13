@@ -1,0 +1,62 @@
+[
+  {
+    "image": "/images/amidala.jpg",
+    "name": "amidala",
+    "clicked": false
+  },
+  {
+    "image": "/images/annie.jpg",
+    "name": "annie",
+    "clicked": false
+  },
+  {
+    "image": "/images/boss-nass.jpg",
+    "name": "boss-nass",
+    "clicked": false
+  },
+  {
+    "image": "/images/darth-maul.jpg",
+    "name": "darth-maul",
+    "clicked": false
+  },
+  {
+    "image": "/images/droideka.jpg",
+    "name": "droideka",
+    "clicked": false
+  },
+  {
+    "image": "/images/jarjar.jpg",
+    "name": "jarjar",
+    "clicked": false
+  },
+  {
+    "image": "/images/obiwan.jpg",
+    "name": "obiwan",
+    "clicked": false
+  },
+  {
+    "image": "/images/watto.jpg",
+    "name": "watto",
+    "clicked": false
+  },
+  {
+    "image": "/images/yoda.jpg",
+    "name": "yoda",
+    "clicked": false
+  },
+  {
+    "image": "/images/gunray.png",
+    "name": "gunray",
+    "clicked": false
+  },
+  {
+    "image": "/images/quigonn.png",
+    "name": "quigonn",
+    "clicked": false
+  },
+  {
+    "image": "/images/sebulba.jpeg",
+    "name": "SEBULBA",
+    "clicked": false
+  }
+]
