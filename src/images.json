@@ -1,72 +1,72 @@
 [
   {
     "id" : 1,
-    "image": "/images/amidala.jpg",
+    "image": "./images/amidala.jpg",
     "name": "amidala",
     "clicked": false
   },
   { "id" : 2,
-    "image": "/images/annie.jpg",
+    "image": "./images/annie.jpg",
     "name": "annie",
     "clicked": false
   },
   { 
     "id" : 3,
-    "image": "/images/boss-nass.jpg",
+    "image": "./images/boss-nass.jpg",
     "name": "boss-nass",
     "clicked": false
   },
   {
     "id" : 4,
-    "image": "/images/darth-maul.jpg",
+    "image": "./images/darth-maul.jpg",
     "name": "darth-maul",
     "clicked": false
   },
   {
     "id" : 5,
-    "image": "/images/droideka.jpg",
+    "image": "./images/droideka.jpg",
     "name": "droideka",
     "clicked": false
   },
   {
     "id" : 6,
-    "image": "/images/jarjar.jpg",
+    "image": "./images/jarjar.jpg",
     "name": "jarjar",
     "clicked": false
   },
   {
     "id" : 7,
-    "image": "/images/obiwan.jpg",
+    "image": "./images/obiwan.jpg",
     "name": "obiwan",
     "clicked": false
   },
   {
     "id" : 8,
-    "image": "/images/watto.jpg",
+    "image": "./images/watto.jpg",
     "name": "watto",
     "clicked": false
   },
   {
     "id" : 9,
-    "image": "/images/yoda.jpg",
+    "image": "./images/yoda.jpg",
     "name": "yoda",
     "clicked": false
   },
   {
     "id" : 10,
-    "image": "/images/gunray.png",
+    "image": "./images/gunray.png",
     "name": "gunray",
     "clicked": false
   },
   {
     "id" : 11,
-    "image": "/images/quigonn.png",
+    "image": "./images/quigonn.png",
     "name": "quigonn",
     "clicked": false
   },
   {
     "id" : 12,
-    "image": "/images/sebulba.jpeg",
+    "image": "./images/sebulba.jpeg",
     "name": "SEBULBA",
     "clicked": false
   }
